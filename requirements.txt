@@ -1,0 +1,6 @@
+requests
+PyPDF2
+ddddocr
+pysocks
+pymongo
+python-dotenv
